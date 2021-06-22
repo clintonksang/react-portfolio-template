@@ -5,6 +5,14 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import illustrator from "./images/adobe-illustrator-cc.svg"
+import photoshop from "./images/photoshop-cc-6.svg"
+import premiere from "./images/premiere-cc.svg"
+import fbads from "./images/facebook-ads.svg"
+import figma from "./images/figma-1.svg"
+import ae from "./images/after-effects-2019.svg"
+import googleads from "./images/google-ads-2.svg"
+import xd from "./images/adobe-xd-1.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -20,18 +28,18 @@ export default {
   name: "Clinton",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Breathe life ",
     //Line 2 For Header
-    "products, brands,",
+    "into your brand with",
     //Line 3 For Header
-    "and experience",
+    "Design",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Get the best Graphic Design, UI/UX and Digital Marketing services for your company at affordable rates.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "clintonksang@gmail.com",
 
   // End Header Details -----------------------
 
@@ -40,7 +48,7 @@ export default {
     {
       title: "Project One", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Get the best Graphic Design, UI/UX and Digital Marketing services for your company at affordable rates", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -119,7 +127,7 @@ export default {
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://firebasestorage.googleapis.com/v0/b/blogapp-337c4.appspot.com/o/about.jpg?alt=media&token=dd918f08-472d-4025-8e22-ca5122d1b8f9",
 
   //   End About Section ---------------------
 
@@ -129,34 +137,34 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: illustrator,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc.",
     },
     {
-      img: cssIcon,
+      img: photoshop,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Adobe's world-class imaging and design software is at the core of just about every creative project, from photo editing and compositing.",
     },
     {
-      img: jsIcon,
+      img: xd,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc.",
     },
     {
-      img: reactIcon,
+      img: ae,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "After Effects is a digital visual effects, motion graphics, and compositing application.",
     },
     {
-      img: designIcon,
+      img: fbads,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "You can promote your Page, posts on your Page, actions users took, or your website itself with the Facebook network",
     },
     {
-      img: codeIcon,
+      img: googleads,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Get in front of customers when they’re searching for businesses like yours on Google Search and Maps. Only pay for results, like clicks to your website or calls to your business.",
     },
   ],
 
@@ -164,32 +172,32 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
-  promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  // End Promotion Section -----------------
+  // promotionHeading: "Heading",
+  // promotionPara:
+  //   "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  // // End Promotion Section -----------------
 
   //   Contact Section --------------
 
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
+    { img: githubIcon, url: "https://github.com/clintonksang" },
+    // {
+    //   img: codepenIcon,
+    //   url: "https://www.codepen.com/",
+    // },
+    // {
+    //   img: dribbbleIcon,
+    //   url: "https://dribbble.com/chetanverma",
+    // },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/sanydesigns",
     },
   ],
 
   // End Contact Section ---------------
 }
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+
