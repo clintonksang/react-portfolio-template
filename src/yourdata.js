@@ -39,71 +39,71 @@ export default {
     "Get the best Graphic Design, UI/UX and Digital Marketing services for your company at affordable rates.",
 
   //Contact Email
-  contactEmail: "clintonksang@gmail.com",
+  contactEmail: "sanydesigns@gmail.com",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Rutega Educational Services", //Project Title - Add Your Project Title Here
       para:
-        "Get the best Graphic Design, UI/UX and Digital Marketing services for your company at affordable rates", // Add Your Service Type Here
+        "Rutega was established to provide quality professional services to prospective students & their parents, on study possibilities in Australia.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://firebasestorage.googleapis.com/v0/b/blogapp-337c4.appspot.com/o/post11.jpg?alt=media&token=f1a86440-af72-4c1e-bdc6-bf2a63b6acca",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://www.rutegaeducation.com/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "NAO Foundation", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "I worked on content creation and design for Nereah Aketch Foundation thus winning KTN's TV Show MIss President.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://firebasestorage.googleapis.com/v0/b/blogapp-337c4.appspot.com/o/nao2.jpeg?alt=media&token=a9111063-8ab0-45ab-8386-06692f95ae03",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://naofoundation.org/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "ScanPal Group", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Design UX, UI, graphic assets for their mobile app and website,financial technology company ScanPalGroup.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://firebasestorage.googleapis.com/v0/b/blogapp-337c4.appspot.com/o/scanpaledesign.png?alt=media&token=0a80ba7b-5d09-4ca9-a182-94a9962a7e0f",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://scanpal.co.ke/",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "Stemaore Adventures", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Focused on designing posters and logo for adventure and recreation company.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.6435-9/129264076_3713413702049652_8703051566325501184_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeEkMgMiKIPlW2IyaHLeAjQ0BvcVKEr9xvgG9xUoSv3G-CWlFbK5Q1jSwbm0zdC-jYS8PSWolMPWoOG8-czdOg-1&_nc_ohc=iVH6TeTjl3YAX9e67sE&_nc_ht=scontent.fnbo2-1.fna&oh=8246346bcee7c74730c9033933242b0c&oe=60DD080B",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.facebook.com/stemacoreAdventureEvents/",
     },
     {
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Video Editing", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Designed Product demo video for Advertisement", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1574717025058-2f8737d2e2b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://youtu.be/FgNMwZ6Iq3A",
     },
     {
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "And Much More", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Not satisfied? See our social pages", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.instagram.com/sanydesigns/",
     },
 
     /*
