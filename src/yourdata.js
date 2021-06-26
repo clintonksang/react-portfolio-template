@@ -128,7 +128,7 @@ export default {
   aboutParaThree:
     "How? ―  it became more difficult to express myself without painting a picture in people's mind, untilI came across Design, and I got hooked.",
     aboutParaFour:
-    "So?  ―  I sought to help businesses how to express themselves to their customers through visualization and design.",
+    "So?   ―  I sought to help businesses how to express themselves to their customers through visualization and design.",
     aboutImage:
     "https://firebasestorage.googleapis.com/v0/b/blogapp-337c4.appspot.com/o/about.jpg?alt=media&token=dd918f08-472d-4025-8e22-ca5122d1b8f9",
 
