@@ -7,6 +7,7 @@ import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import illustrator from "./images/adobe-illustrator-cc.svg"
 import photoshop from "./images/photoshop-cc-6.svg"
+import facebook from "./images/facebook.svg"
 import premiere from "./images/premiere-cc.svg"
 import fbads from "./images/facebook-ads.svg"
 import figma from "./images/figma-1.svg"
@@ -121,12 +122,14 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "Nothing ever becomes real 'til it is experienced.― John Keats",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Why? ―  As I grew up,I had Visualization and intuition has been so much key in how I perceived and understood things in my environment.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-  aboutImage:
+    "How? ―  it became more difficult to express myself without painting a picture in people's mind, untilI came across Design, and I got hooked.",
+    aboutParaFour:
+    "So?  ―  I sought to help businesses how to express themselves to their customers through visualization and design.",
+    aboutImage:
     "https://firebasestorage.googleapis.com/v0/b/blogapp-337c4.appspot.com/o/about.jpg?alt=media&token=dd918f08-472d-4025-8e22-ca5122d1b8f9",
 
   //   End About Section ---------------------
@@ -182,7 +185,7 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/clintonksang" },
+    { img: facebook, url: "https://www.facebook.com/Sany-Designs-111315687862193" },
     // {
     //   img: codepenIcon,
     //   url: "https://www.codepen.com/",
